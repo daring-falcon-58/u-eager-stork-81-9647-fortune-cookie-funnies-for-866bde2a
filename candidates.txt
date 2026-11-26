@@ -1,0 +1,42 @@
+CANDIDATES — Fortune Cookie Funnies for Engineers (u-eager-stork-81-9647)
+Judge criteria in order: (1) real fortune-cookie message for an engineer (2) genuinely funny on first read, real punchline (3) sounds like a fortune cookie, twist from code/deploys/bugs/standups (4) fresh — not a mug/sticker/slide joke (5) tight, funniest word at the end.
+Live-field themes to AVOID (already in live titles): Friday deploy, 3 a.m. bug/stranger, unreproducible bug, PR comments about a typo, first-try compile, PR approved by title-only reader, lucky numbers = line numbers, deleted branch, blame framework in standup, deploy dreaded vs forgotten paging.
+
+1|You will meet a tall, dark stranger. He is the senior dev who wrote this code and left no comments.
+2|A merge conflict is coming. It will be with the teammate who sits closest to you.
+3|Your rubber duck will file a complaint. It knows too much.
+4|Beware the legacy code: it was written by a genius who has since left the company. It was you.
+5|The bug is not in your code. It is in the code you copied from the internet at 4 p.m.
+6|You will name a variable temp. It will outlive your career.
+7|Your code will pass all tests. The tests test nothing.
+8|The semicolon you forgot will be found by production, not by you.
+9|Your next standup will last nine minutes. You will say no blockers while blocked on everything.
+10|The cache will betray you. It always does, and it will pretend it is your fault.
+11|You will fix the bug by deleting the feature. The users will thank you.
+12|Your database migration will run flawlessly in staging. Production has other plans.
+13|The function you call final_v2_FINAL is neither final nor version two.
+14|You will discover the bug was a typo. The typo is in the comment explaining the bug.
+15|Your manager will ask for an estimate. The correct answer is a shrug and a sigh.
+16|The AI wrote your code. The AI is now your manager's favorite employee.
+17|Your TODO comment will turn five years old this week. Nobody will remove it. It is load-bearing.
+18|The on-call phone will ring at dinner. It is the service you swore you would never own.
+19|You will refactor the code. The code will refactor you.
+20|Your commit message says minor fix. It changes 47 files.
+21|The test that passes on your machine will fail in CI, in front of everyone you respect.
+22|Beware the intern: they will ask why the code does that. Nobody knows.
+23|You will add one more microservice. It will be the one that pages you.
+24|Your variable named data will contain everything except data.
+25|The code freeze begins Friday. Your bug has already RSVP'd.
+26|You will find the answer on page two of the search results. It is your own question from 2019.
+27|The senior engineer will say works on my machine and close the ticket.
+28|Your sprint will end on time. The definition of done will not.
+29|A null pointer will find you. It was waiting in the one path you never tested.
+30|You will rename a folder. Seven services will notice.
+31|The YAML you edited has a tab in it. Good luck.
+32|Your code review will be approved by the person who wrote the bug you are fixing.
+33|You will write a comment explaining the code. Future you will call it a lie.
+34|The password you reset will be forgotten by the time you finish resetting it.
+35|Your branch will be named hotfix. It will live longer than the product.
+36|The linter will approve your code. Production will not.
+37|You will open the codebase to fix one line. You will close it having changed nothing and broken two things.
+38|A wise engineer once said: never deploy on Friday. That engineer is on call this Friday.
